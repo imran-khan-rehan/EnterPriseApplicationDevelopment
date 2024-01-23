@@ -1,0 +1,57 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page with Container</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
+    <style>
+
+
+        .container2 {
+            min-height: 90vh;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+
+        .text2 {
+            width: 45%;
+            font-size: 2em;
+            line-height: 1.4;
+        }
+
+        .image2 {
+            width: 50%;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="container2">
+        <div class="text2">
+            <h1>Teacher Feedback</h1>
+        <p>We value your feedback! Please take a moment to share your thoughts about your teacher. Your input helps us improve the learning experience.</p>
+    <a href="@Url.Action("dashboard", "Home")" class="btn btn-primary mb-3">All teachers</a>
+    </div>
+        <div class="image2">
+            <img src="/images/dashboard.png" alt="Your Big Image">
+        </div>
+    </div>
+</body>
+</html>

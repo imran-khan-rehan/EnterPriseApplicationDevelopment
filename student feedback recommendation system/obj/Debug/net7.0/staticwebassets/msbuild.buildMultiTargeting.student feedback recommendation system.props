@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\student feedback recommendation system.props" />
+</Project>

@@ -1,0 +1,111 @@
+﻿
+@model List<student_feedback_recommendation_system.Models.Teacher>
+
+@{
+    ViewData["Title"] = "Home Page";
+    string Name = (ViewBag.name[0]);
+
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Manager</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<style>
+    body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    color: #333;
+}
+
+header p {
+    color: #666;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.task-filters {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.task-list {
+    display: grid;
+    margin-top:10px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.task {
+    background-color:orange;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.task h2 {
+    margin-top: 0;
+}
+
+.status {
+    font-weight: bold;
+}
+
+.in-progress {
+    color: green;
+}
+
+.priority {
+    font-weight: bold;
+}
+
+.high {
+    color: #dc3545;
+}
+</style>
+<body>
+    <header>
+        <h1>Hey @Name!</h1>
+        <p>Welcome back to your trusted and efficient teacher feedback app.</p>
+    </header>
+
+
+
+    <section class="task-list">
+        @foreach (var teacher in Model)
+        {
+                    <div class="task" onclick=>
+                        <a href="@Url.Action("Details", "Home", new { id = teacher.Id })">@teacher.Name</a>
+                            <p>Date of Joining: @teacher.DateOfJoining.ToShortDateString()</p>
+                        <p>Subjects: @teacher.Subject</p>
+                        <p>Education: <span class="status">@teacher.Status</span></p>
+                    </div>
+        }
+
+    </section>
+</body>
+</html>

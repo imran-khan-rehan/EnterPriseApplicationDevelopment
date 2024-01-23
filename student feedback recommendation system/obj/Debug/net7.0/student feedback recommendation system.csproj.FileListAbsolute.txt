@@ -1,0 +1,181 @@
+D:\7th semester\EAD\student feedback recommendation system\bin\Debug\net7.0\appsettings.Development.json
+D:\7th semester\EAD\student feedback recommendation system\bin\Debug\net7.0\appsettings.json
+D:\7th semester\EAD\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.staticwebassets.runtime.json
+D:\7th semester\EAD\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.exe
+D:\7th semester\EAD\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.deps.json
+D:\7th semester\EAD\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.runtimeconfig.json
+D:\7th semester\EAD\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.dll
+D:\7th semester\EAD\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.pdb
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.csproj.AssemblyReference.cache
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.GeneratedMSBuildEditorConfig.editorconfig
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.AssemblyInfoInputs.cache
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.AssemblyInfo.cs
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.csproj.CoreCompileInputs.cache
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.MvcApplicationPartsAssemblyInfo.cache
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.RazorAssemblyInfo.cache
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.RazorAssemblyInfo.cs
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\staticwebassets\msbuild.student feedback recommendation system.Microsoft.AspNetCore.StaticWebAssets.props
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\staticwebassets\msbuild.build.student feedback recommendation system.props
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.student feedback recommendation system.props
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.student feedback recommendation system.props
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\staticwebassets.pack.json
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\staticwebassets.build.json
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\staticwebassets.development.json
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\scopedcss\bundle\student feedback recommendation system.styles.css
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\scopedcss\projectbundle\student feedback recommendation system.bundle.scp.css
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.dll
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\refint\student feedback recommendation system.dll
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.pdb
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.genruntimeconfig.cache
+D:\7th semester\EAD\student feedback recommendation system\obj\Debug\net7.0\ref\student feedback recommendation system.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.csproj.AssemblyReference.cache
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.AssemblyInfoInputs.cache
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.AssemblyInfo.cs
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.csproj.CoreCompileInputs.cache
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.RazorAssemblyInfo.cache
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.RazorAssemblyInfo.cs
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\refint\student feedback recommendation system.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.pdb
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\appsettings.json
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.staticwebassets.runtime.json
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.exe
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.deps.json
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.runtimeconfig.json
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.pdb
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Humanizer.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets\msbuild.student feedback recommendation system.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets\msbuild.build.student feedback recommendation system.props
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.student feedback recommendation system.props
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.student feedback recommendation system.props
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\scopedcss\bundle\student feedback recommendation system.styles.css
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\scopedcss\projectbundle\student feedback recommendation system.bundle.scp.css
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.csproj.CopyComplete
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.genruntimeconfig.cache
+C:\Users\12\Downloads\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\ref\student feedback recommendation system.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\appsettings.Development.json
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\appsettings.json
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.staticwebassets.runtime.json
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.exe
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.deps.json
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.runtimeconfig.json
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\student feedback recommendation system.pdb
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Azure.Core.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Azure.Identity.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Humanizer.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.CodeDom.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Memory.Data.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\student feedback recommendation system\student feedback recommendation system\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.csproj.AssemblyReference.cache
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.GeneratedMSBuildEditorConfig.editorconfig
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.AssemblyInfoInputs.cache
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.AssemblyInfo.cs
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.csproj.CoreCompileInputs.cache
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.MvcApplicationPartsAssemblyInfo.cache
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.RazorAssemblyInfo.cache
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.RazorAssemblyInfo.cs
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets\msbuild.student feedback recommendation system.Microsoft.AspNetCore.StaticWebAssets.props
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets\msbuild.build.student feedback recommendation system.props
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.student feedback recommendation system.props
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.student feedback recommendation system.props
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets.pack.json
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets.build.json
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\staticwebassets.development.json
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\scopedcss\bundle\student feedback recommendation system.styles.css
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\scopedcss\projectbundle\student feedback recommendation system.bundle.scp.css
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.csproj.CopyComplete
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.dll
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\refint\student feedback recommendation system.dll
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.pdb
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\student feedback recommendation system.genruntimeconfig.cache
+D:\student feedback recommendation system\student feedback recommendation system\obj\Debug\net7.0\ref\student feedback recommendation system.dll

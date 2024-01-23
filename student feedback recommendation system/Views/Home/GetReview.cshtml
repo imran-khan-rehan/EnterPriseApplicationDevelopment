@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    int teacherId = (int)ViewBag.TeacherId;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Get Review</title>
+    <!-- Add your CSS styles as needed -->
+    <style>
+ .body { background-color: rgb(34, 180, 229); display: flex;flex-direction:row; justify-content:center; align-items: center;width:90vw; height:90vh; margin: 0; }
+  .form-container { background-color: white; padding: 60px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+  .form-container h2 { margin-bottom: 20px; }
+  form { display: flex; flex-direction: column; }
+  input { margin-bottom: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 4px; }
+  button { padding: 10px; border: none; border-radius: 4px; background-color: orange; color: white; cursor: pointer; }   
+    /* .image2 {
+            width: 50%;
+        }*/
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="body">
+          <div class="image2">
+            <img src="/images/feedback.png" alt="Your Big Image">
+        </div>
+    <div class="form-container">
+
+    <h1>Write a Review</h1>
+
+    <form asp-controller="Home" asp-action="CreateReview" method="post">
+        <!-- Add form fields for the new review -->
+        <input type="hidden" name="teacherId" value="@teacherId">
+
+        <label for="comment">Comment:</label>
+        <input type="text" name="comment" required>
+
+        <label for="rating">Rating (1-5):</label>
+        <input type="number" name="rating" min="1" max="5" required>
+
+        <button type="submit">Submit Review</button>
+    </form>
+    </div>
+    
+    </div>
+</body>
+</html>
